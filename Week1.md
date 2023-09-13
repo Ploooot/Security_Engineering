@@ -53,3 +53,8 @@ No vulnerabilities have been found.
 ![image](https://github.com/SecurityEngineering-2023/security-engineering-submissions-Ploooot/assets/121863850/db889309-3911-4de3-8fd8-e07632ceda47)
 
 My account details leaked but I already changed my password few month ago for another reason.
+
+## Feedback
+
+For now, this course is only general culture and I don't think it's a bad thing because we need to be aware of what happens in the world about cybersecurity. 
+I'm still waiting for the part of the course where we're going to learn skill and I hope it won't be too late. What we saw until now is interesting but it's only knowledge and not skills.
