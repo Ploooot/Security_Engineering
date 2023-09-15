@@ -54,6 +54,24 @@ No vulnerabilities have been found.
 
 My account details leaked but I already changed my password few month ago for another reason.
 
+## Task 4C, Wazuh
+
+I reached this part of the exercice. I created an agent from my OS and now I try to creat one on a virtual machine.
+
+![image](https://github.com/Ploooot/Security_Engineering/assets/121863850/b26f2d09-af2f-4257-b2e3-2207a78c0d01)
+
+What are the MITRE ATT&CK techniques(include ID) Wazuh reports for these events?
+
+Theses are the MITRE techniques Wazuh reported : 
+
+![image](https://github.com/Ploooot/Security_Engineering/assets/121863850/03032457-f37b-4f8a-8e50-28b7651800e8)
+
+
+Here is the page for my agent : 
+
+![image](https://github.com/Ploooot/Security_Engineering/assets/121863850/1ad1690c-96a7-4221-8255-f144ad4a8241)
+
+
 ## Feedback
 
 For now, this course is only general culture and I don't think it's a bad thing because we need to be aware of what happens in the world about cybersecurity. 
